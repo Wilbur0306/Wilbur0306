@@ -2,7 +2,9 @@ Hello Wilbur🌈
 =============
 📆 2022
 -------------
-### C-Basic
+### ✏️C-Basic
+-------------
+##### 📚윤성우의 열혈 C 프로그래밍
 
 <!--
 **Wilbur0306/Wilbur0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
