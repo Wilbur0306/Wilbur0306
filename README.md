@@ -4,7 +4,7 @@ Hello Wilbur 2022🌈
 * ### Material:[📚윤성우의 열혈 C 프로그래밍](http://www.yes24.com/Product/Goods/4333686 "📚윤성우의 열혈 C 프로그래밍")
 
 ## 🌱Yellow Beans
-* ### [Study Plan](https://github.com/Wilbur0306/yellowbeanstudyplan "Study Plan")
+* ### [Yellow Beans Study Plan](https://github.com/Wilbur0306/yellowbeanstudyplan "Yellow Beans Study Plan")
 * ### Material:[📚윤성우의 열혈 자료구조](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788996094067 "📚윤성우의 열혈 자료구조")
 * ### Material:[📚공동환의 열혈강의 C 포인터](https://freelec.co.kr/lecture/열혈강의-c-포인터/ "📚공동환의 열혈강의 C 포인터")
 
