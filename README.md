@@ -7,6 +7,7 @@ Hello Wilbur 2022🌈
 ### 🌱Yellow Beans
 ***
 * ### 교재:[📚윤성우의 열혈 자료구조](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788996094067 "📚윤성우의 열혈 자료구조")
+* ### 교재:[📚공동환의 열혈강의 C 포인터](https://freelec.co.kr/lecture/열혈강의-c-포인터/ "📚공동환의 열혈강의 C 포인터")
 
 <!--
 **Wilbur0306/Wilbur0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
