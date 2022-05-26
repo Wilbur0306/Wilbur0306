@@ -5,7 +5,6 @@ Hello Wilbur 2022🌈
 
 ## 🌱 Yellow Beans
 * * *
-### [Yellow Beans Study Plan](https://github.com/Wilbur0306/yellowbeanstudyplan "Yellow Beans Study Plan")
 ## [✏️ C-DataStructure](https://github.com/Wilbur0306/C-Language/blob/main/C-DataStructure "C-DataStructure")
 * ### Material:[📚윤성우의 열혈 자료구조](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788996094067 "📚윤성우의 열혈 자료구조")
 ## [✏️ C-Pointer](https://github.com/Wilbur0306/C-Language/blob/main/C-Pointer "C-Pointer")
